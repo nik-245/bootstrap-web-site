@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255);
+    font-size: 1.3rem !important;
+}
+
+#slide img{
+    height: 700px;
+    object-fit: cover;
+}
+
+#content div {
+    margin:5px !important;
+}
